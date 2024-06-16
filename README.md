@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkososki
-- 👀 I’m interested in Python, Java, C++, HTML, CSS and some NoSQL
+- 👀 I’m interested in Python, Java, C++, HTML, CSS, Java Script...
 - 🌱 I’m formally studying Environmental and Software Engineering
 - 😅 I'm currently trying to find an internship in software development
 - 📫 E-mail me: kkososki@gmail.com or find me on Instagram or Twitter: @kkososki
